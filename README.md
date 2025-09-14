@@ -250,7 +250,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼にもドリアン、美味しすぎてクセになります</span></h2>
 <a href="20250914_039.JPG" target="_blank"><img src="20250914_039.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ショッピングモールのトイレに入ると、トイレットペーパーを便器に流せることになってました</span></h2>
+<h2><span class="yellow">ショッピングモールのトイレに入ると、トイレットペーパーを便器に流せることになってました<br>普通のタイ人は便器横のボミ箱にティッシュを捨てるので、今からPR展開中ですね〜</span></h2>
 <a href="20250914_040.JPG" target="_blank"><img src="20250914_040.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">旅行会社のイベント用、特製スーツケース</span></h2>
