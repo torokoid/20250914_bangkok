@@ -241,7 +241,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">電線の上をリスが駆け抜けます</span></h2>
 <a href="20250914_038.JPG" target="_blank"><img src="20250914_038.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
+<h2><span class="yellow">リスが駆け抜ける動画↓</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oOMcgYWuq3g?si=fHhtEb7iHEFNM6Y-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
