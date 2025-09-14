@@ -334,9 +334,9 @@ p.note { display: none; }
     
 
 <br><br>
-<h2><span class="yellow">今日のBGMは Rod Stewart, Phil Collins, Scorpions, Air Supply, Bee Gees, Lobo | Soft Rock 70s 80s 90s Love Songs</span></h2>
+<h2><span class="yellow">今日のBGMは 素敵なエピソードを持つ【駅ピアノ/ストリートピアノ】で、X JAPAN／Forever Loveを弾いていたら駅員さんが予想外の行動にでてビックリ</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1ftKQtU_o5w?si=DLdKFRoLm65IT4jf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2KLihFiKV8?si=Nb-TA_QUYYAlkWDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 
