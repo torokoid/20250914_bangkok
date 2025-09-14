@@ -172,7 +172,7 @@ p.note { display: none; }
 <h2><span class="yellow">水道業者のおじさんの車、無線のアンテナが2本も立ってます</span></h2>
 <a href="20250914_004.JPG" target="_blank"><img src="20250914_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">ショッピングモールの4階まで上がるエスカレータ、各フロアを歩かせる設計</span></h2>
+<h2><span class="yellow">ショッピングモールの4階まで上がるエスカレータ、各フロアでは、次のエスカレータまで行くのにフロアを歩かせる設計</span></h2>
 <a href="20250914_005.JPG" target="_blank"><img src="20250914_005.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">エスカレータで上りながら1階の屋台を見下ろしたところ</span></h2>
