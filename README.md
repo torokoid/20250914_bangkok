@@ -314,7 +314,7 @@ p.note { display: none; }
 <h2><span class="yellow">Fitに極太タイヤ、オーバーフェンダーつけるのはまともな方で、普通はタイヤはみ出させちゃってますがそれも合法らしい</span></h2>
 <a href="20250914_069.JPG" target="_blank"><img src="20250914_069.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow"14日、朝だけ作動する噴水</span></h2>
+<h2><span class="yellow">14日、朝だけ作動する噴水</span></h2>
 <a href="20250914_070.JPG" target="_blank"><img src="20250914_070.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">曇り空でしたが、お花達は皆満開！</span></h2>
